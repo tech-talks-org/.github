@@ -1,5 +1,6 @@
 # Tech Talks Org Manifesto
-
+> 💡 _"It’s not about how much you know, but how much you can share with others."_
+> 
 ## 1. Peer Collaboration Over Resource Overload
 
 We commit to sharing tools, experiences, and best practices so that everyone can learn and apply useful concepts—without drowning in an endless stream of links, articles, and tools that no one has time to follow.
@@ -32,6 +33,3 @@ Our goal is continuous and sustainable learning. We don’t need to keep up with
 ✅ Briefly explain why a resource is interesting  
 ✅ Avoid spam and repetitive messages  
 ✅ Encourage constructive discussions
-
-💡 _"It’s not about how much you know, but how much you can share with others."_  
-Welcome to the group, and happy learning! 🚀
